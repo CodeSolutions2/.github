@@ -1,0 +1,42 @@
+Capgemini (Medium project)
+Short-term consulting project	Q-learning using Java with EdgeCloudSim with streaming data	
+Dec 12-30	
+2 weeks		
+Java code written using the Weka library was proprietary and can not be shared publicly.	
+
+DataBricks Data Science Fundamentals for Data Analyst (Large project (50-5000 files, SQL database))
+SQL/Scala/Python analysis of large database using the Databricks platform	Jan 1 -20	2 weeks	https://github.com/j622amilah/Case_Studies/tree/main/0_watch_case_study_exercise	https://www.coursera.org/account/accomplishments/specialization/certificate/7XZH736R33RR	
+
+
+Google Analytics Coursera Certification program	(Large project (50-5000 files, SQL database))
+Automatic ingestion of csv file data to Google Cloud Platform	Juin 1-Juin 22	1 month 2 weeks	https://github.com/j622amilah/GCP_ingestion_analysis_tools	https://www.coursera.org/account/accomplishments/specialization/certificate/E2AA7ATMBFD8	https://www.credly.com/badges/ae0787de-ec8d-4e83-b0f7-42055ba18616/public_url
+
+
+The purpose of this library is to serve as a reliable and simple library to reassemble docx documents after they have been treated using AI/machine learning text treatment.	
+Reassemble docx files with modified text	Mai 1-6, initiale publication (Juin 23, 26, 27)	2 weeks, version updates en progres	https://github.com/CodeSolutions2/mod_docx	https://pypi.org/project/mod-docx/	
+
+
+Google Analytics Coursera Certification program	(Large project (50-5000 files, SQL database))
+Analysis of 68 csv files, using automated ingestion program and bigquery GCP	Juin 22 -Julliet 6	2 weeks	https://github.com/j622amilah/Case_Studies/tree/main/1_case_study_bikeshare	https://www.coursera.org/account/accomplishments/specialization/certificate/E2AA7ATMBFD8	https://www.credly.com/badges/ae0787de-ec8d-4e83-b0f7-42055ba18616/public_url
+
+
+Google Business Intelligence Certificat Professionnel	(Small project (<10 files))
+Analysis of a Kaggle dataset on GCP BigQuery. The BigQuery database was sent to a Google Connected Sheet, where the aggregated data was displayed on a Google Apps Scripts webapp.	Aug 28-31	4 days	https://github.com/j622amilah/Case_Studies/tree/main/3_case_study_Google_fiber	https://www.coursera.org/account/accomplishments/certificate/U6G22XY655N2	
+
+
+Model Serving: Prompt Engineering examples using OpenAI	(Small project (<10 files))
+  Prompt Engineering: Presentation of effective prompts for usage of OpenAI models	Nov 01-06	1 week	https://script.google.com/macros/s/AKfycbyWJww6oIjTW5xZ0JL44exKyU2t9jYYfZlJIMhGq6U/dev	https://medium.com/@j622amilah/prompt-dictionary-openai-models-3e5bb9bdedcb	
+
+
+Model Serving: Webscrapping (UrlFetchApp, Cheerio) in gs, Python processing in the browser with Pyodide demonstrating Regex	(Small project (<10 files))
+Usage of Regex to perform text cleaning and Tokenization for model training. Original blog post: https://medium.com/@j622amilah/wonders-of-regex-834f255805fe . Usage of Python in Javascript/HTML using Pyodide to execute the Regex coding: https://medium.com/@j622amilah/python-in-the-browser-review-of-pyodide-dfcd74407a87	Nov 07-17, 2023	2 weeks	https://script.google.com/macros/s/AKfycbxmLqvvUF5yRgXR-axLBuU2dsRsO8w3s4V1kfww2v4/dev		
+
+
+"Data Science Observations in a Chaotic World: How to be more responsible and why it is important"	(Large project (50-5000 files, SQL database))
+A self-help book on 22 Data Science case studies discusses common topics ranging from disaster, long-term goals, self-esteem, and lack of technological regulatory rules. The Data Science Prompts are webapps containing Large Language Model 
+(LLM) data-driven horoscope-like applications, that help users have 
+clarity on their lives based on their own data."	In progress	Text written in one month, webapp developement and prompt engineering will be completed in one month	https://j622amilah.github.io/userservicesite/Observations_of_a_Data_Scientist.html		
+
+  
+Image labeling webapp in Tensorflow.js - version 0	 (Medium project)
+  A demonstration webapp that uses an edge detection CNN tensorflow model to predict similar objects (apples vs tomatoes), model is compared with Mobilenet w/wo fine-tuning/transfer learning 	Jan 15-19, 2024	5 days	https://CodeSolutions2.github.io/test_4_webapps/index.html	https://medium.com/@j622amilah/image-classification-model-deployment-using-tensorflow-js-7421fc386f83	
