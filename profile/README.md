@@ -15,20 +15,21 @@ CodeSolutions2 is the GitHub organization name for selling code-related projects
 
 
 ### Additional JavaScript projects:
-
-1. [Tensorflow.js hand-written letter and number classification: A web application that classifies handwritten captial letters and numbers]()
-2. Text category prediction webapp (First part of webapp up: Google Search & multiple URL webscrapping for model training)
-3. Prompt engineering Best examples webapp
-4. Examples of Regex usage using Python in the browser - webapp pyodide_regex_webscrape
-5. responsibility_monitoring
-6. secure_encryption_of_data
-7. pdf_to_text
+1. [Google Fit Watch Connectivity with Google Apps Scripts](https://medium.com/@j622amilah/google-apps-scripts-and-rest-api-from-a-data-scientist-programmer-perspective-d020d6ba1ff6)
+2. [Google BigQuery Connected Sheet Dashboard with Google Apps Scripts](https://github.com/j622amilah/Case_Studies/tree/main/3_case_study_Google_fiber)
+3. [Google Gmail Productivity with Google Apps Scripts](https://medium.com/@j622amilah/write-automated-functions-to-perform-gmail-tasks-7f31ef7c9bc2)
+4. [Prompt engineering: Best examples webapp](https://CodeSolutions2.github.io/Prompt_engineering/index.html)
+5. [Google Search and webscraping](https://script.google.com/macros/s/AKfycbwNxwGv4EjVxveO0KhYwjZpllZDN0zIAETXuOgvWpjF/dev)
+6. [Responsibility Monitoring Productivity webapp](https://github.com/CodeSolutions2/responsibility_monitoring)
+7. [Tensorflow.js hand-written letter and number classification](https://github.com/CodeSolutions2/letter_number_writing)
+8. [Generate WebCryptoAPI public private encryption keys in JSON Web Key format](https://github.com/CodeSolutions2/secure_encryption_of_data)
 
 
 ### Additional Python projects:
-1. [HuggingFace StableDiffusion ControlNet](https://www.kaggle.com/code/jamilahfoucher/huggingface-stablediffusion-contronet)
-2. [Text classification w News data](https://www.kaggle.com/code/jamilahfoucher/text-classification-w-news-data)
-3. [Fine Tuning BERT w/Tensorflow](https://www.kaggle.com/code/jamilahfoucher/fine-tuning-bert-w-tensorflow)
+1. [PyPI library: mod-docx](https://github.com/CodeSolutions2/mod_docx)
+2. [HuggingFace StableDiffusion ControlNet](https://www.kaggle.com/code/jamilahfoucher/huggingface-stablediffusion-contronet)
+3. [Text classification w News data](https://www.kaggle.com/code/jamilahfoucher/text-classification-w-news-data)
+4. [Fine Tuning BERT w/Tensorflow](https://www.kaggle.com/code/jamilahfoucher/fine-tuning-bert-w-tensorflow)
    
 
 ### Additional Bash projects:
