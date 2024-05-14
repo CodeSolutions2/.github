@@ -23,8 +23,8 @@ CodeSolutions2 is the GitHub organization name for selling code-related projects
 ### Motivation and Self-Help AI Productivity Tools
 1. Fitness (Self-Respect) [Google Fit Watch Connectivity with Google Apps Scripts](https://medium.com/@j622amilah/google-apps-scripts-and-rest-api-from-a-data-scientist-programmer-perspective-d020d6ba1ff6)
 2. Life Planning and Problem Solving [Responsibility Monitoring Productivity webapp](https://github.com/CodeSolutions2/responsibility_monitoring)
-<!-- 2. Self-Reflection [Chatbot journal] -->
-<!-- 3. Motivation [Meme image] -->
+3. Motivation [Meme image](https://github.com/CodeSolutions2/meme_motivation_image/tree/main)
+<!-- 4. Self-Reflection [Chatbot journal] -->
 
 ### Data Science Tools
 1. [Google BigQuery Connected Sheet Dashboard with Google Apps Scripts](https://github.com/j622amilah/Case_Studies/tree/main/3_case_study_Google_fiber)
