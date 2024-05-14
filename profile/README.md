@@ -48,4 +48,5 @@ CodeSolutions2 is the GitHub organization name for selling code-related projects
 ## Additional Bash projects:
 
 ### Data Science Tools
-1. [Git automatic push library](https://github.com/j622amilah/Git_scripts) 
+1. [Git automatic push library](https://github.com/CodeSolutions2/git_scripts)
+
