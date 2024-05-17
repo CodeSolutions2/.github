@@ -11,8 +11,8 @@ CodeSolutions2 is the GitHub organization name for selling code-related projects
 #### Additional products:
 1. Fitness (Self-Respect) [Google Fit Watch Connectivity with Google Apps Scripts](https://medium.com/@j622amilah/google-apps-scripts-and-rest-api-from-a-data-scientist-programmer-perspective-d020d6ba1ff6)
 2. Life Planning and Problem Solving [Responsibility Monitoring Productivity webapp](https://github.com/CodeSolutions2/responsibility_monitoring)
-3. Motivation [Meme image generation](https://github.com/CodeSolutions2/meme_motivation_image/tree/main)
-4. Self-Reflection [text 2 chatbot journal] (in progress)
+3. Motivation [Meme image generation](https://github.com/CodeSolutions2/meme_motivation_image)
+4. Self-Reflection [text 2 chatbot journal](https://github.com/CodeSolutions2/text_2_chatbot_journal) (in progress)
 
 
 # Data Science Tools
@@ -22,7 +22,7 @@ CodeSolutions2 is the GitHub organization name for selling code-related projects
 2. [Client-Server spreadsheet Google Apps Script code](https://github.com/CodeSolutions2/client_server_spreadsheet_webapp) - *$30*
 3. [Python Question Quiz Application chatgpt integration code](https://github.com/CodeSolutions2/question_quiz_app) - *Starter: $30, Standard: $100, Advanced: $400*
 4. [Tensorflow.js Image Labeling code](https://github.com/CodeSolutions2/test_4_webapps) - *Starter: $30, Standard: $400, Advanced: $800*
-5. [Audio Transcription Chatbot using Q&A finetuning](https://github.com/CodeSolutions2/audio_2_text_webapp) - *Pending approval at Upwork (in progress: better audio transcription model and vector database usage)*
+5. [Audio Transcription Chatbot using Q&A finetuning](https://github.com/CodeSolutions2/audio_2_chatbot_webapp) - *Pending approval at Upwork (in progress: better audio transcription model and vector database usage)*
 6. [Frontend JS Dashboard with Python/JS backend:dictionary string organization](https://github.com/CodeSolutions2/plotly_pyodide_dashboard) - *Pending approval at Upwork (in progress: allow reading of large datasets, better organization of plotting)*
 7. [PDF viewer with AI text extraction for image PDF files](https://github.com/CodeSolutions2/pdf_to_text_webapp) - *Pending approval at Upwork*
 
