@@ -11,7 +11,7 @@ CodeSolutions2 is the GitHub organization name for selling code-related projects
 #### Additional products:
 1. Fitness (Self-Respect) [Google Fit Watch Connectivity with Google Apps Scripts](https://medium.com/@j622amilah/google-apps-scripts-and-rest-api-from-a-data-scientist-programmer-perspective-d020d6ba1ff6)
 2. Life Planning and Problem Solving [Responsibility Monitoring Productivity webapp](https://github.com/CodeSolutions2/responsibility_monitoring)
-3. Motivation [Meme image](https://github.com/CodeSolutions2/meme_motivation_image/tree/main)
+3. Motivation [Meme image generation](https://github.com/CodeSolutions2/meme_motivation_image/tree/main)
 <!-- 4. Self-Reflection [Chatbot journal] -->
 
 
