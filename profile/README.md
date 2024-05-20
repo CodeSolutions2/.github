@@ -12,6 +12,7 @@ CodeSolutions2 is the GitHub organization name for selling code-related projects
 1. Fitness (Self-Respect) [Google Fit Watch Connectivity with Google Apps Scripts](https://medium.com/@j622amilah/google-apps-scripts-and-rest-api-from-a-data-scientist-programmer-perspective-d020d6ba1ff6)
 2. Life Planning and Problem Solving [Responsibility Monitoring Productivity webapp](https://github.com/CodeSolutions2/responsibility_monitoring)
 3. Motivation [Meme image generation](https://github.com/CodeSolutions2/meme_motivation_image)
+4. Self-help (discussion and understanding of one's self) in progress
 
 
 
@@ -34,6 +35,7 @@ CodeSolutions2 is the GitHub organization name for selling code-related projects
 <!-- 4. [Google Programmable Search Engine and webscraping](https://script.google.com/macros/s/AKfycbwNxwGv4EjVxveO0KhYwjZpllZDN0zIAETXuOgvWpjF/dev) -->
 4. [Tensorflow.js hand-written letter and number classification](https://github.com/CodeSolutions2/letter_number_writing)
 5. [Generate WebCryptoAPI public private encryption keys in JSON Web Key format](https://github.com/CodeSolutions2/secure_encryption_of_data)
+6. [Audio-to-text](https://github.com/CodeSolutions2/audio_2_text_webapp) - Input audio file from repo and transribe file with OpenAI (custom model in progress)
 
 
 #### Additional Python projects:
