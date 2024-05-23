@@ -3,6 +3,7 @@
 CodeSolutions2 is the GitHub organization name for selling code-related projects independently and on Upwork.
 
 # Motivation and Self-Help AI Productivity Tools
+These tools are for client-side/public users to use interactive AI inspired tools/gadgets. Upload/input your data and use AI proven tools/gadgets!
 
 #### Projects for sell:
 1. Self-Realization for Gaining Employment [Data Science Observations in a Chaotic World: How to be more responsible and why it is important](https://j622amilah.github.io/userservicesite/Observations_of_a_Data_Scientist.html) - *8,50€ per webapp accesskey (in progress)*
@@ -15,8 +16,8 @@ CodeSolutions2 is the GitHub organization name for selling code-related projects
 4. Self-help (discussion and understanding of one's self) [Text-2-chatbot Journal or Digital Twin](https://github.com/CodeSolutions2/text_2_chatbot_journal)
 
 
-
 # Data Science Tools
+These tools are for professional AI work development and advancement.
 
 #### Projects for sell:
 1. [Automatic csv file ingestion code in Bash: sorting of files by header, upload to cloud](https://github.com/CodeSolutions2/automatic_csv_file_ingestion) - *$100*
@@ -35,7 +36,8 @@ CodeSolutions2 is the GitHub organization name for selling code-related projects
 <!-- 4. [Google Programmable Search Engine and webscraping](https://script.google.com/macros/s/AKfycbwNxwGv4EjVxveO0KhYwjZpllZDN0zIAETXuOgvWpjF/dev) -->
 4. [Tensorflow.js hand-written letter and number classification](https://github.com/CodeSolutions2/letter_number_writing)
 5. [Generate WebCryptoAPI public private encryption keys in JSON Web Key format](https://github.com/CodeSolutions2/secure_encryption_of_data)
-6. [Audio-to-text](https://github.com/CodeSolutions2/audio_2_text_webapp) - Input audio file from repo and transribe file with OpenAI (custom model in progress)
+6. [Audio-to-text](https://github.com/CodeSolutions2/audio_2_text_webapp) - Input audio file from GitHub and output transribe text with OpenAI (custom model in progress)
+7. [Text-2-chatbot](https://github.com/CodeSolutions2/text_2_chatbot_webapp) - Input text file from GitHub and create a chatbot with OpenAI (custom model in progress)
 
 
 #### Additional Python projects:
