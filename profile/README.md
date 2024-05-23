@@ -14,6 +14,7 @@ These tools are for client-side/public users to use interactive AI inspired tool
 2. Life Planning and Problem Solving [Responsibility Monitoring Productivity webapp](https://github.com/CodeSolutions2/responsibility_monitoring)
 3. Motivation [Meme image generation](https://github.com/CodeSolutions2/meme_motivation_image)
 4. Self-help (discussion and understanding of one's self) [Text-2-chatbot Journal or Digital Twin](https://github.com/CodeSolutions2/text_2_chatbot_journal)
+<!-- My "Digital Twin"/chatbot: my opinions about life - model trained on over 300+ audio files collected during daily exercise -->
 
 
 # Data Science Tools
@@ -36,8 +37,8 @@ These tools are for professional AI work development and advancement.
 <!-- 4. [Google Programmable Search Engine and webscraping](https://script.google.com/macros/s/AKfycbwNxwGv4EjVxveO0KhYwjZpllZDN0zIAETXuOgvWpjF/dev) -->
 4. [Tensorflow.js hand-written letter and number classification](https://github.com/CodeSolutions2/letter_number_writing)
 5. [Generate WebCryptoAPI public private encryption keys in JSON Web Key format](https://github.com/CodeSolutions2/secure_encryption_of_data)
-6. [Audio-to-text](https://github.com/CodeSolutions2/audio_2_text_webapp) - Input audio file from GitHub and output transribe text with OpenAI (custom model in progress)
-7. [Text-2-chatbot](https://github.com/CodeSolutions2/text_2_chatbot_webapp) - Input text file from GitHub and create a chatbot with OpenAI (custom model in progress)
+6. [Audio-to-text](https://github.com/CodeSolutions2/audio_2_text_webapp) - Input audio file from GitHub and output transribe text with OpenAI (custom audio model in progress)
+7. [Text-2-chatbot](https://github.com/CodeSolutions2/text_2_chatbot_webapp) - Input text file from GitHub and create a chatbot with OpenAI (RAG workflow in progress)
 
 
 #### Additional Python projects:
