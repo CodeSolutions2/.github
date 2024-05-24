@@ -14,7 +14,7 @@ These tools are for client-side/public users to use interactive AI inspired tool
 2. Life Planning and Problem Solving [Responsibility Monitoring Productivity webapp](https://github.com/CodeSolutions2/responsibility_monitoring)
 3. Motivation [Meme image generation](https://github.com/CodeSolutions2/meme_motivation_image)
 5. Self-help (discussion and understanding of one's self) [Audio-to-text Journal or "Digital Twin part 1"](https://github.com/CodeSolutions2/audio_2_text_journal)
-4. Self-help (discussion and understanding of one's self) [Text-2-chatbot Journal or "Digital Twin part 2"](https://github.com/CodeSolutions2/text_2_chatbot_journal)
+4. Self-help (discussion and understanding of one's self) [Text-2-chatbot Journal or "Digital Twin part 2"](https://github.com/CodeSolutions2/text_2_chatbot_journal) - *(Assistant workflow WORKS! Q&A workflow in progress..)*
 <!-- 6. My "Digital Twin"/chatbot: my opinions about life - model trained on over 300+ audio files collected during daily exercise -->
 
 
