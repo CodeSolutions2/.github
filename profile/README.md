@@ -36,7 +36,7 @@ These tools are for professional AI work development and advancement.
 #### Additional JavaScript projects:
 1. [Google BigQuery Connected Sheet Dashboard with Google Apps Scripts](https://github.com/j622amilah/Case_Studies/tree/main/3_case_study_Google_fiber)
 2. [Google Gmail Productivity with Google Apps Scripts](https://medium.com/@j622amilah/write-automated-functions-to-perform-gmail-tasks-7f31ef7c9bc2)
-3. [Prompt engineering: Best examples webapp](https://CodeSolutions2.github.io/prompt_engineering/index.html)
+3. [Prompt engineering: Best examples webapp](https://github.com/CodeSolutions2/prompt_engineering)
 <!-- 4. [Google Programmable Search Engine and webscraping](https://script.google.com/macros/s/AKfycbwNxwGv4EjVxveO0KhYwjZpllZDN0zIAETXuOgvWpjF/dev) -->
 4. [Tensorflow.js hand-written letter and number classification](https://github.com/CodeSolutions2/letter_number_writing)
 5. [Generate WebCryptoAPI public private encryption keys in JSON Web Key format](https://github.com/CodeSolutions2/secure_encryption_of_data)
