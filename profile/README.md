@@ -46,6 +46,7 @@ These tools are for professional AI work development and advancement.
       - *(in progress: RAG workflow with vector database usage)*
 8. [FrontEnd JavaScript library to trigger BackEnd processes with GitHub Actions](https://github.com/CodeSolutions2/run_GitHub_Actions)
       - [Version 0 of library script](https://medium.com/towardsdev/a-way-to-run-github-actions-from-the-frontend-3e07fe3388f7)
+      - *(in progress: version 1 of library script - minimally exposed GitHub API key)*
 
 
 #### Additional Python projects:
