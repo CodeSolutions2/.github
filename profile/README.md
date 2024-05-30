@@ -26,10 +26,14 @@ These tools are for professional AI work development and advancement.
 2. [Client-Server spreadsheet Google Apps Script code](https://github.com/CodeSolutions2/client_server_spreadsheet_webapp) - *$30*
 3. [Python Question Quiz Application chatgpt integration code](https://github.com/CodeSolutions2/question_quiz_app) - *Starter: $30, Standard: $100, Advanced: $400*
 4. [Tensorflow.js Image Labeling code](https://github.com/CodeSolutions2/test_4_webapps) - *Starter: $30, Standard: $400, Advanced: $800*
-5. [Audio Transcription Chatbot using Q&A finetuning](https://github.com/CodeSolutions2/audio_2_chatbot_webapp) - *Pending approval at Upwork (in progress: better audio transcription model and vector database usage)*
-6. [Frontend JS Dashboard with Python/JS backend:dictionary string organization](https://github.com/CodeSolutions2/plotly_pyodide_dashboard) - *Pending approval at Upwork (in progress: allow reading of large datasets, better organization of plotting)*
-7. [PDF viewer with AI text extraction for image PDF files](https://github.com/CodeSolutions2/pdf_to_text_webapp) - *Pending approval at Upwork*
-
+5. [Audio Transcription Chatbot using Q&A finetuning](https://github.com/CodeSolutions2/audio_2_chatbot_webapp) - *$300*
+      - [Upwork](https://www.upwork.com/services/product/development-it-audio-transcription-chatbot-using-q-a-finetuning-1783550902752177813)
+      - *(in progress: custom audio transcription model and vector database usage)*
+6. [Frontend JS Dashboard with Python/JS backend:dictionary string organization](https://github.com/CodeSolutions2/plotly_pyodide_dashboard) - *Starter: $200, Standard: $400, Advanced: $800*
+      - [Upwork](https://www.upwork.com/services/product/development-it-frontend-js-dashboard-with-python-js-backend-dictionary-string-organization-1783176512136783700)
+      - *(in progress: allow reading of large datasets, better organization of plotting)*
+7. [PDF viewer with AI text extraction for image PDF files](https://github.com/CodeSolutions2/pdf_to_text_webapp) - *Starter: $30, Standard: $300, Advanced: $800*
+      - [Upwork](https://www.upwork.com/services/product/development-it-pdf-viewer-with-ai-text-extraction-for-image-pdf-files-1787876940448206055)
 
 #### Additional JavaScript projects:
 1. [Google BigQuery Connected Sheet Dashboard with Google Apps Scripts](https://github.com/j622amilah/Case_Studies/tree/main/3_case_study_Google_fiber)
@@ -38,8 +42,10 @@ These tools are for professional AI work development and advancement.
 <!-- 4. [Google Programmable Search Engine and webscraping](https://script.google.com/macros/s/AKfycbwNxwGv4EjVxveO0KhYwjZpllZDN0zIAETXuOgvWpjF/dev) -->
 4. [Tensorflow.js hand-written letter and number classification](https://github.com/CodeSolutions2/letter_number_writing)
 5. [Generate WebCryptoAPI public private encryption keys in JSON Web Key format](https://github.com/CodeSolutions2/secure_encryption_of_data)
-6. [Audio-to-text](https://github.com/CodeSolutions2/audio_2_text_webapp) - Input audio file from GitHub and output transribe text with OpenAI *(custom audio model in progress)*
+6. [Audio-to-text](https://github.com/CodeSolutions2/audio_2_text_webapp) - Input audio file from GitHub and output transribe text with OpenAI *(in progress: custom audio transcription model)*
 7. [Text-2-chatbot](https://github.com/CodeSolutions2/text_2_chatbot_webapp) - Input text file from GitHub and create a chatbot with OpenAI *(RAG workflow in progress)*
+8. [FrontEnd JavaScript library to trigger BackEnd processes with GitHub Actions]
+      - [Version 0 of library script](https://medium.com/towardsdev/a-way-to-run-github-actions-from-the-frontend-3e07fe3388f7)
 
 
 #### Additional Python projects:
