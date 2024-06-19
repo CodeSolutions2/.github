@@ -16,6 +16,11 @@ These tools are for client-side/public users to use interactive AI inspired tool
 4. Self-help (discussion and understanding of one's self) [Audio-to-text Journal or "Digital Twin part 1"](https://github.com/CodeSolutions2/audio_2_text_journal)
 5. Self-help (discussion and understanding of one's self) [Text-2-chatbot Journal or "Digital Twin part 2"](https://github.com/CodeSolutions2/text_2_chatbot_journal) - *(Assistant workflow WORKS! Q&A workflow in progress..)*
 6. My "Digital Twin"/chatbot: my opinions about life - model trained on over 300+ audio files collected during daily exercise [My chatbot with initial model](https://github.com/CodeSolutions2/my_chatbot) - *(Assistant workflow WORKS! custom model in progress..)*
+7. Life Evaluation using the Text-2-chatbot Journal model *(in progress)*
+      - Custom prompts to evaluate one's progress with respect to short-term and long-term life goals
+      - Self improvement with respeect to a general chatbot model (how does your text-2-chatbot compare with general knowledge regarding your topic/problem? Does your model know the best solutions, or could it/you know more?)
+8. Quote-to-chatbot Gifts! *(in progress)*
+      - log quotes or expressions from friends and family and give a text-2-chatbot to them as a gift. Help friends and family learn to take self-responsibility, self-respect, and life planning/control of their life by giving them a chatbot to help them monitor and evaluate their life progress.
 
 
 # Data Science Tools
