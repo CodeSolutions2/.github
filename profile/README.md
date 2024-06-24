@@ -49,9 +49,9 @@ These tools are for professional AI work development and advancement.
       - *(in progress: custom audio transcription model)*
 7. [Text-2-chatbot](https://github.com/CodeSolutions2/text_2_chatbot_webapp) - Input text file from GitHub and create a chatbot with OpenAI
       - *(in progress: RAG workflow with vector database usage)*
-8. [FrontEnd JavaScript library to trigger BackEnd processes with GitHub Actions](https://github.com/CodeSolutions2/run_GitHub_Actions)
-      - [Version 0 of library script](https://medium.com/towardsdev/a-way-to-run-github-actions-from-the-frontend-3e07fe3388f7)
-      - *(in progress: version 1 of library script - minimally exposed GitHub API key)*
+8. [library_to_run_GitHub_Actions: FrontEnd JavaScript library to trigger BackEnd processes with GitHub Actions](https://github.com/CodeSolutions2/library_to_run_GitHub_Actions)
+      - [RepoA, RepoB setup: Version 0 - GitHub repository dispatch](https://medium.com/towardsdev/a-way-to-run-github-actions-from-the-frontend-3e07fe3388f7)- RepoA [my_chatbot](https://github.com/CodeSolutions2/my_chatbot) creates files in RepoB ([frontend_backend_message_passing_central_repository_v0), RepoB triggers GitHub Actions in RepoA
+      - [RepoA, RepoB setup: Version 1 - RepoB encrypts data and RepoA webscraps encrypted data](https://medium.com/towardsdev/a-way-to-run-github-actions-from-the-frontend-3e07fe3388f7) - RepoA [webapp_book_observations](https://github.com/CodeSolutions2/webapp_book_observations) creates encrypted files in RepoB ([frontend_backend_message_passing_central_repository_v1](https://github.com/CodeSolutions2/frontend_backend_message_passing_central_repository_v1)), RepoB acts like an encrypted public storage for RepoA to access 
 
 
 #### Additional Python projects:
