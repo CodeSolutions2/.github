@@ -50,8 +50,12 @@ These tools are for professional AI work development and advancement.
 7. [Text-2-chatbot](https://github.com/CodeSolutions2/text_2_chatbot_webapp) - Input text file from GitHub and create a chatbot with OpenAI
       - *(in progress: RAG workflow with vector database usage)*
 8. [library_to_run_GitHub_Actions](https://github.com/CodeSolutions2/library_to_run_GitHub_Actions): FrontEnd JavaScript library that can trigger BackEnd processes with GitHub Actions or perform FrontEnd REST API processes. The two repository software architectures below demonstrate BackEnd and FrontEnd library usage:
-      - [BackEnd library usage with RepoA, RepoB setup: Version 0 - GitHub Repository Dispatch](https://medium.com/towardsdev/a-way-to-run-github-actions-from-the-frontend-3e07fe3388f7) - RepoA [my_chatbot](https://github.com/CodeSolutions2/my_chatbot) creates files in RepoB ([frontend_backend_message_passing_central_repository_v0](https://github.com/CodeSolutions2/frontend_backend_message_passing_central_repository_v0)), RepoB triggers GitHub Actions in RepoA
-      - [FrontEnd library usage with RepoA, RepoB setup: Version 1 - RepoB encrypts data and RepoA GETs encrypted data](https://medium.com/towardsdev/how-to-make-an-encrypted-crud-file-database-on-github-79c8ede13f13) - RepoA [webapp_book_observations](https://github.com/CodeSolutions2/webapp_book_observations) creates encrypted files in RepoB ([frontend_backend_message_passing_central_repository_v1](https://github.com/CodeSolutions2/frontend_backend_message_passing_central_repository_v1)), RepoB acts like an encrypted public storage for RepoA to access 
+      - [Version 0 BackEnd library usage](https://medium.com/towardsdev/a-way-to-run-github-actions-from-the-frontend-3e07fe3388f7): RepoA and RepoB are setup to use GitHub Repository Dispatch functionality
+         - RepoA [my_chatbot](https://github.com/CodeSolutions2/my_chatbot) creates files in RepoB ([frontend_backend_message_passing_central_repository_v0](https://github.com/CodeSolutions2/frontend_backend_message_passing_central_repository_v0)),
+         - RepoB triggers GitHub Actions processes in both RepoA and RepoB
+      - [Version 1 FrontEnd library usage](https://medium.com/towardsdev/how-to-make-an-encrypted-crud-file-database-on-github-79c8ede13f13): RepoA and RepoB are setup such that RepoB encrypts data and RepoA GETs encrypted data for FrontEnd processes
+         - RepoA [webapp_book_observations](https://github.com/CodeSolutions2/webapp_book_observations) creates encrypted files in RepoB ([frontend_backend_message_passing_central_repository_v1](https://github.com/CodeSolutions2/frontend_backend_message_passing_central_repository_v1)),
+         - RepoB acts like an encrypted public storage for RepoA to access via REST API GET
 
 
 #### Additional Python projects:
