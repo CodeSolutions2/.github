@@ -49,7 +49,7 @@ These tools are for professional AI work development and advancement.
       - *(in progress: custom audio transcription model)*
 7. [Text-2-chatbot](https://github.com/CodeSolutions2/text_2_chatbot_webapp) - Input text file from GitHub and create a chatbot with OpenAI
       - *(in progress: RAG workflow with vector database usage)*
-8. [library_to_run_GitHub_Actions](https://github.com/CodeSolutions2/library_to_run_GitHub_Actions): FrontEnd JavaScript library that can trigger BackEnd processes with GitHub Actions or perform FrontEnd REST API processes. The two repository software architectures below demonstrate BackEnd and FrontEnd library usage:
+8. [library_to_run_GitHub_Actions](https://github.com/CodeSolutions2/library_to_run_GitHub_Actions), [npm link](https://www.npmjs.com/package/library_to_run_github_actions): FrontEnd JavaScript library that can trigger BackEnd processes with GitHub Actions or perform FrontEnd REST API processes. The two repository software architectures below demonstrate BackEnd and FrontEnd library usage:
       - [Version 0 BackEnd library usage](https://medium.com/towardsdev/a-way-to-run-github-actions-from-the-frontend-3e07fe3388f7): RepoA and RepoB are setup to use GitHub Repository Dispatch functionality
          - RepoA [my_chatbot](https://github.com/CodeSolutions2/my_chatbot) creates files in RepoB ([frontend_backend_message_passing_central_repository_v0](https://github.com/CodeSolutions2/frontend_backend_message_passing_central_repository_v0)),
          - RepoB triggers GitHub Actions processes in both RepoA and RepoB
