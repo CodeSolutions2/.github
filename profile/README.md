@@ -36,6 +36,7 @@ These tools are for professional AI work development and advancement.
 7. [Frontend JS Dashboard with Python/JS backend:dictionary string organization](https://github.com/CodeSolutions2/plotly_pyodide_dashboard) - *Starter: $200, Standard: $400, Advanced: $800*
       - *(in progress: allow reading of large datasets, better organization of plotting)*
 8. [PDF viewer with AI text extraction for image PDF files](https://github.com/CodeSolutions2/pdf_to_text_webapp) - *Starter: $30, Standard: $300, Advanced: $800*
+9. [CORS Url-to-Multimedia JavaScript custom webapp](https://github.com/CodeSolutions2/multi_media_fetch_webapp) - *Starter: $100, Standard: $400, Advanced: $800*
    
 
 #### Additional JavaScript projects:
