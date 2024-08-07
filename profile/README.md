@@ -15,7 +15,7 @@ These tools are for client-side/public users to use interactive AI inspired tool
 3. Motivation [Meme image generation](https://github.com/CodeSolutions2/meme_motivation_image)
 4. Self-help (discussion and understanding of one's self) [Audio-to-text Journal or "Digital Twin part 1"](https://github.com/CodeSolutions2/audio_2_text_journal)
 5. Self-help (discussion and understanding of one's self) [Text-2-chatbot Journal or "Digital Twin part 2"](https://github.com/CodeSolutions2/text_2_chatbot_journal) - *(Assistant workflow WORKS! Q&A workflow in progress..)*
-6. My "Digital Twin"/chatbot: my opinions about life - model trained on over 300+ audio files collected during daily exercise [My chatbot with initial model](https://github.com/CodeSolutions2/my_chatbot) - *(Assistant workflow WORKS! custom model in progress..)*
+6. My "Digital Twin"/chatbot: my opinions about life - model trained on over 300+ audio files collected during daily exercise [My chatbot](https://github.com/CodeSolutions2/my_chatbot) - *(Assistant workflow WORKS! custom model in progress..)*
 7. Life Evaluation using the Text-2-chatbot Journal model *(in progress)*
       - Custom prompts to evaluate one's progress with respect to short-term and long-term life goals
       - Self improvement with respeect to a general chatbot model (how does your text-2-chatbot compare with general knowledge regarding your topic/problem? Does your model know the best solutions, or could it/you know more?)
@@ -28,15 +28,16 @@ These tools are for professional AI work development and advancement.
 
 #### Projects for sell:
 1. [Automatic csv file ingestion code in Bash: sorting of files by header, upload to cloud](https://github.com/CodeSolutions2/automatic_csv_file_ingestion) - *$100*
-3. [Client-Server spreadsheet Google Apps Script code](https://github.com/CodeSolutions2/client_server_spreadsheet_webapp) - *$30*
-4. [Python Question Quiz Application chatgpt integration code](https://github.com/CodeSolutions2/question_quiz_app) - *Starter: $30, Standard: $100, Advanced: $400*
-5. [Tensorflow.js Image Labeling code](https://github.com/CodeSolutions2/test_4_webapps) - *Starter: $30, Standard: $400, Advanced: $800*
-6. [Audio Transcription Chatbot using Q&A finetuning](https://github.com/CodeSolutions2/audio_2_chatbot_webapp) - *$300*
+2. [Client-Server spreadsheet Google Apps Script code](https://github.com/CodeSolutions2/client_server_spreadsheet_webapp) - *$30*
+3. [Python Question Quiz Application chatgpt integration code](https://github.com/CodeSolutions2/question_quiz_app) - *Starter: $30, Standard: $100, Advanced: $400*
+      - JavaScript Question Quiz Application w/ GCP integration: enter a GCP storage bucket url and try the application!
+4. [Tensorflow.js Image Labeling code](https://github.com/CodeSolutions2/test_4_webapps) - *Starter: $30, Standard: $400, Advanced: $800*
+5. [Audio Transcription Chatbot using Q&A finetuning](https://github.com/CodeSolutions2/audio_2_chatbot_webapp) - *$300*
       - *(in progress: custom audio transcription model and RAG workflow with vector database usage)*
-7. [Frontend JS Dashboard with Python/JS backend:dictionary string organization](https://github.com/CodeSolutions2/plotly_pyodide_dashboard) - *Starter: $200, Standard: $400, Advanced: $800*
+6. [Frontend JS Dashboard with Python/JS backend:dictionary string organization](https://github.com/CodeSolutions2/plotly_pyodide_dashboard) - *Starter: $200, Standard: $400, Advanced: $800*
       - *(in progress: allow reading of large datasets, better organization of plotting)*
-8. [PDF viewer with AI text extraction for image PDF files](https://github.com/CodeSolutions2/pdf_to_text_webapp) - *Starter: $30, Standard: $300, Advanced: $800*
-9. [CORS Url-to-Multimedia JavaScript custom webapp](https://github.com/CodeSolutions2/multi_media_fetch_webapp) - *Starter: $100, Standard: $400, Advanced: $800*
+7. [PDF viewer with AI text extraction for image PDF files](https://github.com/CodeSolutions2/pdf_to_text_webapp) - *Starter: $30, Standard: $300, Advanced: $800*
+8. [CORS Url-to-Multimedia JavaScript custom webapp](https://github.com/CodeSolutions2/multi_media_fetch_webapp) - *Starter: $100, Standard: $400, Advanced: $800*
    
 
 #### Additional JavaScript projects:
@@ -50,13 +51,10 @@ These tools are for professional AI work development and advancement.
       - *(in progress: custom audio transcription model)*
 7. [Text-2-chatbot](https://github.com/CodeSolutions2/text_2_chatbot_webapp) - Input text file from GitHub and create a chatbot with OpenAI
       - *(in progress: RAG workflow with vector database usage)*
-8. [library_to_run_GitHub_Actions](https://github.com/CodeSolutions2/library_to_run_GitHub_Actions), [npm link](https://www.npmjs.com/package/library_to_run_github_actions): FrontEnd JavaScript library that can trigger BackEnd processes with GitHub Actions or perform FrontEnd REST API processes. The two repository software architectures below demonstrate BackEnd and FrontEnd library usage:
-      - [Version 0 BackEnd library usage](https://medium.com/towardsdev/a-way-to-run-github-actions-from-the-frontend-3e07fe3388f7): RepoA and RepoB are setup to use GitHub Repository Dispatch functionality
-         - RepoA [my_chatbot](https://github.com/CodeSolutions2/my_chatbot) creates files in RepoB ([frontend_backend_message_passing_central_repository_v0](https://github.com/CodeSolutions2/frontend_backend_message_passing_central_repository_v0)),
-         - RepoB triggers GitHub Actions processes in both RepoA and RepoB
-      - [Version 1 FrontEnd library usage](https://medium.com/towardsdev/how-to-make-an-encrypted-crud-file-database-on-github-79c8ede13f13): RepoA and RepoB are setup such that RepoB encrypts data and RepoA GETs encrypted data for FrontEnd processes
-         - RepoA [webapp_book_observations](https://github.com/CodeSolutions2/webapp_book_observations) creates encrypted files in RepoB ([frontend_backend_message_passing_central_repository_v1](https://github.com/CodeSolutions2/frontend_backend_message_passing_central_repository_v1)),
-         - RepoB acts like an encrypted public storage for RepoA to access via REST API GET
+8. [library_to_run_GitHub_Actions](https://github.com/CodeSolutions2/library_to_run_GitHub_Actions), [npm link](https://www.npmjs.com/package/library_to_run_github_actions): FrontEnd JavaScript library that can trigger BackEnd processes with GitHub Actions or perform FrontEnd GitHub REST API requests.
+      - [Library usage example](https://medium.com/towardsdev/a-way-to-run-github-actions-from-the-frontend-3e07fe3388f7): Sending data between two repositories using the GitHub Repository Dispatch functionality
+9. [library_window_crypto_subtle](https://github.com/CodeSolutions2/frontend_backend_message_passing_central_repository_v1): A JavaScript library that performs encrypted CRUD functions for a repository. Encrypt, store, and decrypt text in one GitHub repository (frontend_backend_message_passing_central_repository_v1) from any GitHub repository; one could even use this library to make a repository into a vector storage.
+      - [Library usage example](https://medium.com/towardsdev/how-to-make-an-encrypted-crud-file-database-on-github-79c8ede13f13): RepoA and RepoB are setup such that RepoB encrypts data and RepoA GETs encrypted data for FrontEnd processes
 
 
 #### Additional Python projects:
