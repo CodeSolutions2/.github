@@ -55,7 +55,7 @@ These tools are for professional AI work development and advancement.
       - [Library usage example](https://medium.com/towardsdev/a-way-to-run-github-actions-from-the-frontend-3e07fe3388f7): Sending data between two repositories using the GitHub Repository Dispatch functionality
 9. [library_window_crypto_subtle](https://github.com/CodeSolutions2/frontend_backend_message_passing_central_repository_v1): A JavaScript library that performs encrypted CRUD functions for a repository. Encrypt, store, and decrypt text in one GitHub repository (frontend_backend_message_passing_central_repository_v1) from any GitHub repository; one could even use this library to make a repository into a vector storage.
       - [Library usage example](https://medium.com/towardsdev/how-to-make-an-encrypted-crud-file-database-on-github-79c8ede13f13): RepoA and RepoB are setup such that RepoB encrypts data and RepoA GETs encrypted data for FrontEnd processes
-
+10. [Audio processing in the browser](https://github.com/CodeSolutions2/audio_processing): Time, frequency, and time-frequency (spectrogram) processing with Tensorflow.js and/or JavaScript
 
 #### Additional Python projects:
 1. [PyPI library: mod-docx](https://github.com/CodeSolutions2/mod_docx)
