@@ -19,8 +19,9 @@ These tools are for client-side/public users to use interactive AI inspired tool
 7. Life Evaluation using the Text-2-chatbot Journal model *(in progress)*
       - Custom prompts to evaluate one's progress with respect to short-term and long-term life goals
       - Self improvement with respeect to a general chatbot model (how does your text-2-chatbot compare with general knowledge regarding your topic/problem? Does your model know the best solutions, or could it/you know more?)
-8. Quote-to-chatbot Gifts! *(in progress)*
+8. Quote-to-chatbot Gifts! 
       - log quotes or expressions from friends and family and give a text-2-chatbot to them as a gift. Help friends and family learn to take self-responsibility, self-respect, and life planning/control of their life by giving them a chatbot to help them monitor and evaluate their life progress.
+      - [Gift0 prototype](https://codesolutions2.github.io/quote_to_chatbot_gifts/gift0/index6.html) *(Adding user input features with the library_encryption_class.js in progress)*
 
 
 # Data Science Tools
@@ -53,7 +54,7 @@ These tools are for professional AI work development and advancement.
       - *(in progress: RAG workflow with vector database usage)*
 8. [library_to_run_GitHub_Actions](https://github.com/CodeSolutions2/library_to_run_GitHub_Actions), [npm link](https://www.npmjs.com/package/library_to_run_github_actions): FrontEnd JavaScript library that can trigger BackEnd processes with GitHub Actions or perform FrontEnd GitHub REST API requests.
       - [Library usage example](https://medium.com/towardsdev/a-way-to-run-github-actions-from-the-frontend-3e07fe3388f7): Sending data between two repositories using the GitHub Repository Dispatch functionality
-9. [library_window_crypto_subtle](https://github.com/CodeSolutions2/frontend_backend_message_passing_central_repository_v1): A JavaScript library that performs encrypted CRUD functions for a repository. Encrypt, store, and decrypt text in one GitHub repository (frontend_backend_message_passing_central_repository_v1) from any GitHub repository; one could even use this library to make a repository into a vector storage.
+9. [library_encryption_class](https://github.com/CodeSolutions2/library_encryption_class): A JavaScript library that performs encrypted CRUD functions for a repository. Encrypt, store, and decrypt text in one GitHub repository (library_encryption_class) from any GitHub repository; one could even use this library to make a repository into a vector storage.
       - [Library usage example](https://medium.com/towardsdev/how-to-make-an-encrypted-crud-file-database-on-github-79c8ede13f13): RepoA and RepoB are setup such that RepoB encrypts data and RepoA GETs encrypted data for FrontEnd processes
 10. [Audio processing in the browser](https://github.com/CodeSolutions2/audio_processing): Time, frequency, and time-frequency (spectrogram) processing with Tensorflow.js and/or JavaScript
 11. [Video/Audio file creation and modification](https://github.com/CodeSolutions2/video_audio_processing): A. video screen recording, B. audio recording, C. video/audio file modification 
