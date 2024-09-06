@@ -57,7 +57,9 @@ These tools are for professional AI work development and advancement.
 9. [library_encryption_class](https://github.com/CodeSolutions2/library_encryption_class): A JavaScript library that performs encrypted CRUD functions for a repository. Encrypt, store, and decrypt text in one GitHub repository (library_encryption_class) from any GitHub repository; one could even use this library to make a repository into a vector storage.
       - [Library usage example](https://medium.com/towardsdev/how-to-make-an-encrypted-crud-file-database-on-github-79c8ede13f13): RepoA and RepoB are setup such that RepoB encrypts data and RepoA GETs encrypted data for FrontEnd processes
 10. [Audio processing in the browser](https://github.com/CodeSolutions2/audio_processing): Time, frequency, and time-frequency (spectrogram) processing with Tensorflow.js and/or JavaScript
-11. [Video/Audio file creation and modification](https://github.com/CodeSolutions2/video_audio_processing): A. video screen recording, B. audio recording, C. video/audio file modification 
+11. [Video/Audio file creation and modification](https://github.com/CodeSolutions2/video_audio_processing): A. video screen recording, B. audio recording, C. video/audio file modification
+12. [Build and Deploy Node.js/React webapps](https://github.com/CodeSolutions2/temp_repo_GithubPagesDeploymentTests): builds and deploys a React webapp using Webpack
+    
 
 #### Additional Python projects:
 1. [PyPI library: mod-docx](https://github.com/CodeSolutions2/mod_docx)
