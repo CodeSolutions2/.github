@@ -75,3 +75,7 @@ These tools are for professional AI work development and advancement.
 #### Additional Bash projects:
 1. [Git automatic push library](https://github.com/CodeSolutions2/git_scripts)
 
+
+#### Additional Datasets:
+1. [Food dataset created by webscraping, for Tensorflow dataset notation](https://github.com/CodeSolutions2/bld-pdcubed-datasets): BLD-PD³ Datasets. Breakfast Lunch Dinner (BLD) dataset and the French version of the BLD dataset, called Petit-Déjeuner Déjeuner Dîner (PD³) for language translation
+2. [Tensorflow BCCD dataset for Image Classification](https://github.com/CodeSolutions2/tf_load_bccd_manual): 
