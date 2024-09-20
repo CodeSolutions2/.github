@@ -40,7 +40,7 @@ These tools are for professional AI work development and advancement.
 7. [CORS Url-to-Multimedia JavaScript custom webapp](https://github.com/CodeSolutions2/multi_media_fetch_webapp) - *Starter: $100, Standard: $400, Advanced: $800*
    
 
-#### Additional JavaScript projects:
+#### JavaScript projects:
 1. [Google BigQuery Connected Sheet Dashboard with Google Apps Scripts](https://github.com/j622amilah/Case_Studies/tree/main/3_case_study_Google_fiber)
 2. [Google Gmail Productivity with Google Apps Scripts](https://medium.com/@j622amilah/write-automated-functions-to-perform-gmail-tasks-7f31ef7c9bc2)
 3. [Prompt engineering: Best examples webapp](https://github.com/CodeSolutions2/prompt_engineering)
@@ -64,7 +64,7 @@ These tools are for professional AI work development and advancement.
 16. [Text character classification](https://github.com/CodeSolutions2/text_character_classification): Demonstrate/compare character prediction of the alphabet (ABCDEFGHIJKLMNOPQRSTUVWXYZ) and/or text using different model definitions of the LSTM model
     
 
-#### Additional Python projects:
+#### Python projects:
 1. [PyPI library: mod-docx](https://github.com/CodeSolutions2/mod_docx)
 2. [GitHub Actions MLOps Azure publish deploy monitor Machine Learning project](https://github.com/CodeSolutions2/github_actions)
 3. [HuggingFace StableDiffusion ControlNet](https://www.kaggle.com/code/jamilahfoucher/huggingface-stablediffusion-contronet)
@@ -72,10 +72,10 @@ These tools are for professional AI work development and advancement.
 5. [Fine Tuning BERT w/Tensorflow](https://www.kaggle.com/code/jamilahfoucher/fine-tuning-bert-w-tensorflow)
    
 
-#### Additional Bash projects:
+#### Bash projects:
 1. [Git automatic push library](https://github.com/CodeSolutions2/git_scripts)
 
 
-#### Additional Datasets:
+#### Datasets:
 1. [Food dataset created by webscraping, for Tensorflow dataset notation](https://github.com/CodeSolutions2/bld-pdcubed-datasets): BLD-PD³ Datasets. Breakfast Lunch Dinner (BLD) dataset and the French version of the BLD dataset, called Petit-Déjeuner Déjeuner Dîner (PD³) for language translation
 2. [Tensorflow BCCD dataset for Image Classification](https://github.com/CodeSolutions2/tf_load_bccd_manual): A Tensorflow dataset (https://www.tensorflow.org/datasets/catalog/bccd) of blood cell images to demonstrate competency in performing image classification on medical data  
