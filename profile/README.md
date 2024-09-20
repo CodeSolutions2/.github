@@ -20,8 +20,8 @@ These tools are for client-side/public users to use interactive AI inspired tool
       - Custom prompts to evaluate one's progress with respect to short-term and long-term life goals
       - Self improvement with respeect to a general chatbot model (how does your text-2-chatbot compare with general knowledge regarding your topic/problem? Does your model know the best solutions, or could it/you know more?)
 8. Quote-to-chatbot Gifts! 
-      - log quotes or expressions from friends and family and give a text-2-chatbot to them as a gift. Help friends and family learn to take self-responsibility, self-respect, and life planning/control of their life by giving them a chatbot to help them monitor and evaluate their life progress.
-      - [Gift0 prototype](https://codesolutions2.github.io/quote_to_chatbot_gifts/gift0/index6.html) *(Adding user input features with the library_encryption_class.js in progress)*
+      - log quotes or expressions from friends and family and give a text-2-chatbot to them as a gift. Help friends and family learn to take self-responsibility, self-respect, and life planning/control of their life by giving them a chatbot to help them monitor and evaluate their life progress using different AI models (ie: OpenAI, Gemini, etc).
+      - [Gift0: Gemini model](https://codesolutions2.github.io/quote_to_chatbot_gifts) 
 
 
 # Data Science Tools
@@ -29,16 +29,15 @@ These tools are for professional AI work development and advancement.
 
 #### Projects for sell:
 1. [Automatic csv file ingestion code in Bash: sorting of files by header, upload to cloud](https://github.com/CodeSolutions2/automatic_csv_file_ingestion) - *$100*
-2. [Client-Server spreadsheet Google Apps Script code](https://github.com/CodeSolutions2/client_server_spreadsheet_webapp) - *$30*
-3. [Python Question Quiz Application chatgpt integration code](https://github.com/CodeSolutions2/question_quiz_app) - *Starter: $30, Standard: $100, Advanced: $400*
+2. [Python Question Quiz Application chatgpt integration code](https://github.com/CodeSolutions2/question_quiz_app) - *Starter: $30, Standard: $100, Advanced: $400*
       - JavaScript Question Quiz Application w/ GCP integration: enter a GCP storage bucket url and try the application!
-4. [Tensorflow.js Image Labeling code](https://github.com/CodeSolutions2/test_4_webapps) - *Starter: $30, Standard: $400, Advanced: $800*
-5. [Audio Transcription Chatbot using Q&A finetuning](https://github.com/CodeSolutions2/audio_2_chatbot_webapp) - *$300*
+3. [Tensorflow.js Image Labeling code](https://github.com/CodeSolutions2/image_classification) - *Starter: $30, Standard: $400, Advanced: $800*
+4. [Audio Transcription Chatbot using Q&A finetuning](https://github.com/CodeSolutions2/audio_2_chatbot_webapp) - *$300*
       - *(in progress: custom audio transcription model and RAG workflow with vector database usage)*
-6. [Frontend JS Dashboard with Python/JS backend:dictionary string organization](https://github.com/CodeSolutions2/plotly_pyodide_dashboard) - *Starter: $200, Standard: $400, Advanced: $800*
+5. [Frontend JS Dashboard with Python/JS backend:dictionary string organization](https://github.com/CodeSolutions2/plotly_pyodide_dashboard) - *Starter: $200, Standard: $400, Advanced: $800*
       - *(in progress: allow reading of large datasets, better organization of plotting)*
-7. [PDF viewer with AI text extraction for image PDF files](https://github.com/CodeSolutions2/pdf_to_text_webapp) - *Starter: $30, Standard: $300, Advanced: $800*
-8. [CORS Url-to-Multimedia JavaScript custom webapp](https://github.com/CodeSolutions2/multi_media_fetch_webapp) - *Starter: $100, Standard: $400, Advanced: $800*
+6. [PDF viewer with AI text extraction for image PDF files](https://github.com/CodeSolutions2/pdf_to_text_webapp) - *Starter: $30, Standard: $300, Advanced: $800*
+7. [CORS Url-to-Multimedia JavaScript custom webapp](https://github.com/CodeSolutions2/multi_media_fetch_webapp) - *Starter: $100, Standard: $400, Advanced: $800*
    
 
 #### Additional JavaScript projects:
@@ -58,7 +57,11 @@ These tools are for professional AI work development and advancement.
       - [Library usage example](https://medium.com/towardsdev/how-to-make-an-encrypted-crud-file-database-on-github-79c8ede13f13): RepoA and RepoB are setup such that RepoB encrypts data and RepoA GETs encrypted data for FrontEnd processes
 10. [Audio processing in the browser](https://github.com/CodeSolutions2/audio_processing): Time, frequency, and time-frequency (spectrogram) processing with Tensorflow.js and/or JavaScript
 11. [Video/Audio file creation and modification](https://github.com/CodeSolutions2/video_audio_processing): A. video screen recording, B. audio recording, C. video/audio file modification
-12. [Build and Deploy Node.js/React webapps](https://github.com/CodeSolutions2/temp_repo_GithubPagesDeploymentTests): builds and deploys a React webapp using Webpack
+12. [Build and Deploy Node.js/React webapps](https://github.com/CodeSolutions2/temp_repo_GithubPagesDeploymentTests): Builds and deploys a React webapp using Webpack
+13. [Timeseries classification](https://github.com/CodeSolutions2/timeseries_analysis): Demonstrate how timeseries analysis and prediction can be performed in the browser
+14. [Build and Deploy Static HTML webapps created by Python](https://github.com/CodeSolutions2/static_HTML): Builds and deploys a Python created webapp using Static HTML ymal script
+15. [Text Tokenization](https://github.com/CodeSolutions2/tokenizer): Demonstrate/compare different ways to tokenize text, for text classification and/or generation.
+16. [Text character classification](https://github.com/CodeSolutions2/text_character_classification): Demonstrate/compare character prediction of the alphabet (ABCDEFGHIJKLMNOPQRSTUVWXYZ) and/or text using different model definitions of the LSTM model
     
 
 #### Additional Python projects:
