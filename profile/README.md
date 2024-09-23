@@ -6,7 +6,7 @@ CodeSolutions2 is the GitHub organization name for selling code-related projects
 These tools are for client-side/public users to use interactive AI inspired tools/gadgets. Upload/input your data and use AI proven tools/gadgets!
 
 #### Projects for sell:
-1. Self-Realization for Gaining Employment [Data Science Observations in a Chaotic World: How to be more responsible and why it is important](https://github.com/j622amilah/webapp_book_observations) - *Database complete! Webapp Exercises 7-21 in progress. Unlimited Webapp access and Book for 8,50€ available end of June!*
+1. Self-Realization webapp book for Gaining Employment - [Data Science Observations in a Chaotic World: How to be more responsible and why it is important](https://github.com/j622amilah/webapp_book_observations) - *Database complete! Webapp Exercises 7-21 in progress. Unlimited Webapp access and Book for 8,50€ available end of June!*
 2. Self-Respect [Tensorflow.js JavaScript Frontend game](https://github.com/CodeSolutions2/on_the_way_to_selfrespect) - *Starter: $200, Standard: $400, Advanced: $800*
    
 #### Additional products:
