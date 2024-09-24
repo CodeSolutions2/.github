@@ -59,7 +59,7 @@ These tools are for professional AI work development and advancement.
 11. [Video/Audio file creation and modification](https://github.com/CodeSolutions2/video_audio_processing): A. video screen recording, B. audio recording, C. video/audio file modification
 12. [Build and Deploy Node.js/React webapps](https://github.com/CodeSolutions2/build_deploy_html_webpack): Builds and deploys a React webapp using Webpack
 13. [Timeseries classification](https://github.com/CodeSolutions2/timeseries_analysis): Demonstrate how timeseries analysis and prediction can be performed in the browser
-14. [Build and Deploy Static HTML webapps created by Python](https://github.com/CodeSolutions2/static_HTML): Builds and deploys a Python created webapp using Static HTML ymal script
+14. [Build and Deploy Static HTML webapps created by Python](https://github.com/CodeSolutions2/build_deploy_html_static): Builds and deploys a Python created webapp using Static HTML ymal script
 15. [Text Tokenization](https://github.com/CodeSolutions2/tokenizer): Demonstrate/compare different ways to tokenize text, for text classification and/or generation.
 16. [Text character classification](https://github.com/CodeSolutions2/text_character_classification): Demonstrate/compare character prediction of the alphabet (ABCDEFGHIJKLMNOPQRSTUVWXYZ) and/or text using different model definitions of the LSTM model
     
