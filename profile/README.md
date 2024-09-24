@@ -57,7 +57,7 @@ These tools are for professional AI work development and advancement.
       - [Library usage example](https://medium.com/towardsdev/how-to-make-an-encrypted-crud-file-database-on-github-79c8ede13f13): RepoA and RepoB are setup such that RepoB encrypts data and RepoA GETs encrypted data for FrontEnd processes
 10. [Audio processing in the browser](https://github.com/CodeSolutions2/audio_processing): Time, frequency, and time-frequency (spectrogram) processing with Tensorflow.js and/or JavaScript
 11. [Video/Audio file creation and modification](https://github.com/CodeSolutions2/video_audio_processing): A. video screen recording, B. audio recording, C. video/audio file modification
-12. [Build and Deploy Node.js/React webapps](https://github.com/CodeSolutions2/temp_repo_GithubPagesDeploymentTests): Builds and deploys a React webapp using Webpack
+12. [Build and Deploy Node.js/React webapps](https://github.com/CodeSolutions2/build_deploy_html_webpack): Builds and deploys a React webapp using Webpack
 13. [Timeseries classification](https://github.com/CodeSolutions2/timeseries_analysis): Demonstrate how timeseries analysis and prediction can be performed in the browser
 14. [Build and Deploy Static HTML webapps created by Python](https://github.com/CodeSolutions2/static_HTML): Builds and deploys a Python created webapp using Static HTML ymal script
 15. [Text Tokenization](https://github.com/CodeSolutions2/tokenizer): Demonstrate/compare different ways to tokenize text, for text classification and/or generation.
