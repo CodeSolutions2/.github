@@ -12,7 +12,9 @@ These tools are for client-side/public users to use interactive AI inspired tool
 #### Additional products:
 1. Fitness (Self-Respect) [Google Fit Watch Connectivity with Google Apps Scripts](https://medium.com/@j622amilah/google-apps-scripts-and-rest-api-from-a-data-scientist-programmer-perspective-d020d6ba1ff6)
 2. Life Planning and Problem Solving [Responsibility Monitoring Productivity webapp](https://github.com/CodeSolutions2/responsibility_monitoring)
-3. Motivation [Meme image generation](https://github.com/CodeSolutions2/meme_motivation_image)
+3. Motivation [Meme motivation image generation](https://github.com/CodeSolutions2/meme_motivation_image)
+   - An Internet meme, or meme is a cultural item (such as an idea, behavior, or style) that spreads across the Internet, primarily through social media platforms. Typically, images, videos, GIFs, and other "viral media" content are used to encourage mimicking/miming of a concept. This inspriation of this webapp is to encourage mimicking of motivation and leading a happy-productive life, by generating motivational images using AI models.
+   - There is a manual version where the user can create their own motivational images, and an automatic version where users can simply receive a motivational AI generated image on important topics including [health, education, life-balance, happiness, success, effective communication]
 4. Self-help (discussion and understanding of one's self) [Audio-to-text Journal or "Digital Twin part 1"](https://github.com/CodeSolutions2/audio_2_text_journal)
 5. Self-help (discussion and understanding of one's self) [Text-2-chatbot Journal or "Digital Twin part 2"](https://github.com/CodeSolutions2/text_2_chatbot_journal) - *(Assistant workflow WORKS! Q&A workflow in progress..)*
 6. My "Digital Twin"/chatbot: my opinions about life - model trained on over 300+ audio files collected during daily exercise [My chatbot](https://github.com/CodeSolutions2/my_chatbot) - *(Assistant workflow WORKS! custom model in progress..)*
