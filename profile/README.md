@@ -6,7 +6,7 @@ CodeSolutions2 is the GitHub organization name for selling code-related projects
 These tools are for client-side/public users to use interactive AI inspired tools/gadgets. Upload/input your data and use AI proven tools/gadgets!
 
 #### Projects for sell:
-1. Self-Realization webapp book for Gaining Employment - [Data Science Observations in a Chaotic World: How to be more responsible and why it is important](https://github.com/j622amilah/webapp_book_observations) - *Database complete! Webapp Exercises 7-21 in progress. Unlimited Webapp access and Book for 8,50€ available end of June!*
+1. Self-Realization webapp book for Gaining Employment - [Data Science Observations in a Chaotic World: How to be more responsible and why it is important](https://github.com/j622amilah/webapp_book_observations)
 2. Self-Respect [Tensorflow.js JavaScript Frontend game](https://github.com/CodeSolutions2/on_the_way_to_selfrespect) - *Starter: $200, Standard: $400, Advanced: $800*
    
 #### Additional products:
@@ -16,11 +16,11 @@ These tools are for client-side/public users to use interactive AI inspired tool
    - An Internet meme, or meme is a cultural item (such as an idea, behavior, or style) that spreads across the Internet, primarily through social media platforms. Typically, images, videos, GIFs, and other "viral media" content are used to encourage mimicking/miming of a concept. This inspriation of this webapp is to encourage mimicking of motivation and leading a happy-productive life, by generating motivational images using AI models.
    - There is a manual version where the user can create their own motivational images, and an automatic version where users can simply receive a motivational AI generated image on important topics including [health, education, life-balance, happiness, success, effective communication]
 4. Self-help (discussion and understanding of one's self) [Audio-to-text Journal or "Digital Twin part 1"](https://github.com/CodeSolutions2/audio_2_text_journal)
-5. Self-help (discussion and understanding of one's self) [Text-2-chatbot Journal or "Digital Twin part 2"](https://github.com/CodeSolutions2/text_2_chatbot_journal) - *(Assistant workflow WORKS! Q&A workflow in progress..)*
-6. My "Digital Twin"/chatbot: my opinions about life - model trained on over 300+ audio files collected during daily exercise [My chatbot](https://github.com/CodeSolutions2/my_chatbot) - *(Assistant workflow WORKS! custom model in progress..)*
-7. Life Evaluation using the Text-2-chatbot Journal model *(in progress)*
-      - Custom prompts to evaluate one's progress with respect to short-term and long-term life goals
-      - Self improvement with respeect to a general chatbot model (how does your text-2-chatbot compare with general knowledge regarding your topic/problem? Does your model know the best solutions, or could it/you know more?)
+5. Self-help (discussion and understanding of one's self) [Text-2-chatbot Journal or "Digital Twin part 2"](https://github.com/CodeSolutions2/text_2_chatbot_journal)
+6. My "Digital Twin"/chatbot: my opinions about life - model trained on over 300+ audio files collected during daily exercise [My chatbot](https://github.com/CodeSolutions2/my_chatbot)
+7. [Life evaluation with a chatbot](https://github.com/CodeSolutions2/life_evaluation_w_a_chatbot) - Use the Text-2-chatbot Journal model to self-evaluate your progress in life
+      - Evaluate one's progress with respect to short-term and long-term life goals
+      - Evaluate one's current knowledge with general/best-level knowledge on a topic (ie: career)
 8. [Quote-to-chatbot Gifts!](https://github.com/CodeSolutions2/quote_to_chatbot_gifts) 
       - Log quotes or expressions from friends and family and give the gift of talking to "the person"/chatbot you quote! Use different AI models (ie: OpenAI, Gemini, etc) to generate similar ideas/text as the text that you input; improve decision making, improve idea generation, improve writing.
 
@@ -34,9 +34,7 @@ These tools are for professional AI work development and advancement.
       - JavaScript Question Quiz Application w/ GCP integration: enter a GCP storage bucket url and try the application!
 3. [Tensorflow.js Image Labeling code](https://github.com/CodeSolutions2/image_classification) - *Starter: $30, Standard: $400, Advanced: $800*
 4. [Audio Transcription Chatbot using Q&A finetuning](https://github.com/CodeSolutions2/audio_2_chatbot_webapp) - *$300*
-      - *(in progress: custom audio transcription model and RAG workflow with vector database usage)*
 5. [Frontend JS Dashboard with Python/JS backend:dictionary string organization](https://github.com/CodeSolutions2/plotly_pyodide_dashboard) - *Starter: $200, Standard: $400, Advanced: $800*
-      - *(in progress: allow reading of large datasets, better organization of plotting)*
 6. [PDF viewer with AI text extraction for image PDF files](https://github.com/CodeSolutions2/pdf_to_text_webapp) - *Starter: $30, Standard: $300, Advanced: $800*
 7. [CORS Url-to-Multimedia JavaScript custom webapp](https://github.com/CodeSolutions2/multi_media_fetch_webapp) - *Starter: $100, Standard: $400, Advanced: $800*
    
@@ -49,9 +47,7 @@ These tools are for professional AI work development and advancement.
 4. [Tensorflow.js hand-written letter and number classification](https://github.com/CodeSolutions2/letter_number_writing)
 5. [Generate WebCryptoAPI public private encryption keys in JSON Web Key format](https://github.com/CodeSolutions2/secure_encryption_of_data)
 6. [Audio-to-text](https://github.com/CodeSolutions2/audio_2_text_webapp) - Input audio file from GitHub and output transribe text with OpenAI
-      - *(in progress: custom audio transcription model)*
 7. [Text-2-chatbot](https://github.com/CodeSolutions2/text_2_chatbot_webapp) - Input text file from GitHub and create a chatbot with OpenAI
-      - *(in progress: RAG workflow with vector database usage)*
 8. [library_to_run_GitHub_Actions](https://github.com/CodeSolutions2/library_to_run_GitHub_Actions), [npm link](https://www.npmjs.com/package/library_to_run_github_actions): FrontEnd JavaScript library that can trigger BackEnd processes with GitHub Actions or perform FrontEnd GitHub REST API requests.
       - [Library usage example](https://medium.com/towardsdev/a-way-to-run-github-actions-from-the-frontend-3e07fe3388f7): Sending data between two repositories using the GitHub Repository Dispatch functionality
 9. [library_encryption_class](https://github.com/CodeSolutions2/library_encryption_class): A JavaScript library that performs encrypted CRUD functions for a repository. Encrypt, store, and decrypt text in one GitHub repository (library_encryption_class) from any GitHub repository; one could even use this library to make a repository into a vector storage.
