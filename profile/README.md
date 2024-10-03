@@ -22,7 +22,7 @@ These tools are for client-side/public users to use interactive AI inspired tool
       - Custom prompts to evaluate one's progress with respect to short-term and long-term life goals
       - Self improvement with respeect to a general chatbot model (how does your text-2-chatbot compare with general knowledge regarding your topic/problem? Does your model know the best solutions, or could it/you know more?)
 8. [Quote-to-chatbot Gifts!](https://github.com/CodeSolutions2/quote_to_chatbot_gifts) 
-      - log quotes or expressions from friends and family and give a text-2-chatbot to them as a gift. Help friends and family learn to take self-responsibility, self-respect, and life planning/control of their life by giving them a chatbot to help them monitor and evaluate their life progress using different AI models (ie: OpenAI, Gemini, etc).
+      - Log quotes or expressions from friends and family and give the gift of talking to "the person"/chatbot you quote! Use different AI models (ie: OpenAI, Gemini, etc) to generate similar ideas/text as the text that you input; improve decision making, improve idea generation, improve writing.
 
 
 # Data Science Tools
