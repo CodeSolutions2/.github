@@ -60,6 +60,7 @@ These tools are for professional AI work development and advancement.
 15. [Text Tokenization](https://github.com/CodeSolutions2/tokenizer): Demonstrate/compare different ways to tokenize text, for text classification and/or generation.
 16. [Text character classification](https://github.com/CodeSolutions2/text_character_classification): Demonstrate/compare character prediction of the alphabet (ABCDEFGHIJKLMNOPQRSTUVWXYZ) and/or text using different model definitions of the LSTM model
 17. [Build and Deploy LaTeX HTML webapp](https://github.com/CodeSolutions2/build_deploy_html_latex): Builds and deploys viewing of original (tex) and complied (pdf) LaTeX related documents
+18. [Drag and Drop files to Data Storage](https://github.com/CodeSolutions2/dragAndDrop_to_Storage): A JavaScript module/workflow that allows one to drag and drop files to several storage methods (ie: GCP, vector storage, etc)
     
 
 #### Python projects:
