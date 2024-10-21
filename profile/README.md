@@ -73,7 +73,3 @@ These tools are for professional AI work development and advancement.
 
 #### Bash projects:
 1. [Git automatic push library](https://github.com/CodeSolutions2/git_scripts)
-
-
-#### Datasets:
-1. [Tensorflow BCCD dataset for Image Classification](https://github.com/CodeSolutions2/tf_load_bccd_manual): A Tensorflow dataset (https://www.tensorflow.org/datasets/catalog/bccd) of blood cell images to demonstrate competency in performing image classification on medical data  
