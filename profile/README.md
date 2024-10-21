@@ -72,4 +72,4 @@ These tools are for professional AI work development and advancement.
    
 
 #### Bash projects:
-1. [Git automatic push library](https://github.com/CodeSolutions2/git_scripts)
+1. [Git automatic push library and summarized notes](https://github.com/CodeSolutions2/git_scripts)
