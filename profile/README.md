@@ -63,6 +63,7 @@ These tools are for professional AI work development and advancement.
 18. [Drag and Drop files to Data Storage](https://github.com/CodeSolutions2/dragAndDrop_to_Storage): A JavaScript module/workflow that allows one to drag and drop files to several storage methods (ie: GCP, vector storage, etc)
 19. [UI library](https://github.com/CodeSolutions2/UI_library): A JavaScript User Interface (UI) library to make the process of creating webapps faster and more consistant; a cross between CSS-class libraries and data processing npm libraries. This UI_library consists of both a css script and a javascript script using factory functions. The CSS script contains standard class notation where webapp developers can create their own webapps using the CSS script alone. The JavaScript script creates html strings that include both visual and functional code.
 20. [Image processing tools](https://github.com/CodeSolutions2/image_processing): A complilation of JavaScript image processing tools, for faster creation of webapps.
+21. [Tensorflow.js model usage examples](https://github.com/CodeSolutions2/tfjs_model_usage): Examples of using Tensorflow.js models in JavaScript webapps.
     
 
 #### Python projects:
