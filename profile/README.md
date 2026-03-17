@@ -10,14 +10,13 @@ These tools are for client-side/public users to use interactive AI inspired tool
 2. Self-Respect [Tensorflow.js JavaScript Frontend game](https://github.com/CodeSolutions2/on_the_way_to_selfrespect) - *Starter: $200, Standard: $400, Advanced: $800*
    
 #### Additional products:
-1. Life Planning and Problem Solving [Responsibility Monitoring Productivity webapp](https://github.com/CodeSolutions2/responsibility_monitoring)
-2. Motivation [Memetics motivation image generation](https://github.com/CodeSolutions2/memetics_motivation_image)
+1. Motivation [Memetics motivation image generation](https://github.com/CodeSolutions2/memetics_motivation_image)
    - A field of study called memetics arose in the 1990s to explore the concepts and transmission of memes in terms of an evolutionary model. An Internet meme, or meme is a cultural item (such as an idea, behavior, or style) that spreads across the Internet, primarily through social media platforms. Typically, images, videos, GIFs, and other "viral media" content are used to encourage mimicking/miming of a concept.  The inspriation of this webapp is to encourage mimicking of motivation and leading a happy-productive life, by generating motivational images using AI models.
    - There is a manual version where the user can create their own motivational images, and an automatic version where users can simply receive a motivational AI generated image on important topics including [health, education, life-balance, happiness, success, effective communication]
-3. Self-help (discussion and understanding of one's self) [Audio-to-text Journal or "Digital Twin part 1"](https://github.com/CodeSolutions2/audio_2_text_journal)
-4. Self-help (discussion and understanding of one's self) [Text-2-chatbot Journal or "Digital Twin part 2"](https://github.com/CodeSolutions2/text_2_chatbot_journal)
-5. My "Digital Twin"/chatbot: my opinions about life - model trained on over 300+ audio files collected during daily exercise [My chatbot](https://github.com/CodeSolutions2/my_chatbot)
-6. [Quote-to-chatbot Gifts!](https://github.com/CodeSolutions2/quote_to_chatbot_gifts) 
+2. Self-help (discussion and understanding of one's self) [Audio-to-text Journal or "Digital Twin part 1"](https://github.com/CodeSolutions2/audio_2_text_journal)
+3. Self-help (discussion and understanding of one's self) [Text-2-chatbot Journal or "Digital Twin part 2"](https://github.com/CodeSolutions2/text_2_chatbot_journal)
+4. My "Digital Twin"/chatbot: my opinions about life - model trained on over 300+ audio files collected during daily exercise [My chatbot](https://github.com/CodeSolutions2/my_chatbot)
+5. [Quote-to-chatbot Gifts!](https://github.com/CodeSolutions2/quote_to_chatbot_gifts) 
       - Log quotes or expressions from friends and family and give the gift of talking to "the person"/chatbot you quote! Use different AI models (ie: OpenAI, Gemini, etc) to generate similar ideas/text as the text that you input; improve decision making, improve idea generation, improve writing.
 
 
