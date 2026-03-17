@@ -16,8 +16,7 @@ These tools are for client-side/public users to use interactive AI inspired tool
 2. Self-help (discussion and understanding of one's self) [Audio-to-text Journal or "Digital Twin part 1"](https://github.com/CodeSolutions2/audio_2_text_journal)
 3. Self-help (discussion and understanding of one's self) [Text-2-chatbot Journal or "Digital Twin part 2"](https://github.com/CodeSolutions2/text_2_chatbot_journal)
 4. My "Digital Twin"/chatbot: my opinions about life - model trained on over 300+ audio files collected during daily exercise [My chatbot](https://github.com/CodeSolutions2/my_chatbot)
-5. [Quote-to-chatbot Gifts!](https://github.com/CodeSolutions2/quote_to_chatbot_gifts) 
-      - Log quotes or expressions from friends and family and give the gift of talking to "the person"/chatbot you quote! Use different AI models (ie: OpenAI, Gemini, etc) to generate similar ideas/text as the text that you input; improve decision making, improve idea generation, improve writing.
+
 
 
 # Data Science Tools
